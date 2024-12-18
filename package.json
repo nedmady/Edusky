@@ -1,0 +1,29 @@
+{
+    "name": "sign-in-form",
+    "version": "1.0.0",
+    "description": "A simple sign-in form with a table and a list of goods",
+    "main": "index.html",
+    "scripts": {
+      "start": "echo 'Open index.html in your browser to view the project'"
+    },
+    "keywords": [
+      "HTML",
+      "sign-in",
+      "form",
+      "table",
+      "list"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/nedmady/Edusky.git"
+    },
+    "bugs": {
+      "url": "https://github.com/nedmady/Edusky/issues"
+    },
+    "homepage": "https://github.com/nedmady/Edusky#readme"
+  }
+  
